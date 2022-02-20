@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
-**jeffersonfirmino/jeffersonfirmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeffersonfirmino/jeffersonfirmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+<head>
 
-Here are some ideas to get you started:
+<h1> <p-text-align="center"> Jefferson Firmino </p> </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Independent Projects as a Freelancer. </br>
+- 🌱 I’m currently learning at Unopar University </br>
+- 👯 I’m looking to collaborate at Developer Enterprises </br>
+- 🤔 I’m looking for help with freeware projects </br>
+- 💬 Ask me about any doubt, anything call me on linkedin chat. </br>
+- 📫 How to reach me and more informations: www.likedin.com/in/jeffersonfir </br>
+</body>
