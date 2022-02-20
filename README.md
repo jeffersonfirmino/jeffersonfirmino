@@ -13,7 +13,7 @@
 - 💬 Ask me about any doubt, anything call me on linkedin chat;
 - 📫 How to reach me and more informations: [Linkedin](https://www.linkedin.com/in/jeffersonfir)
 
->"A persistência é o caminho do êxito." Charles Chaplin
+>                                                                        "A persistência é o caminho do êxito." Charles Chaplin
 
 
 
@@ -27,9 +27,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50px50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="50px" height ="50px"/>
 
 
-<div align= "center">
+<div align= "right">
  <a href="https://github.com/jeffersonfirmino">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfirmino&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfirmino&layout=compact&langs_count=7&theme=dracula"/><img height="130em" src="https://github-readme-stats.vercel.app/api?username=jeffersonfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
 </div>
