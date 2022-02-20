@@ -3,7 +3,7 @@
 <h1 align="center"> Jefferson Firmino</h1>
 
 
-
+!img[https://myoctocat.com/assets/images/octocats/octocat-28.png]
 <dl>
 <dt>About Me </dt>
 <dd>- 🔭 I’m currently working on Independent Projects as a Freelancer. <br/></dd>
@@ -28,6 +28,8 @@
 
 ### Estou Aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50px50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="50px" height ="50px"/>
+
+![Snake animation](https://github.com//jeffersonfirmino/blob/output/github-contribution-grid-snake.svg)
 
 <div align= "right">
 <a href="https://github.com/jeffersonfirmino">
