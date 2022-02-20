@@ -1,7 +1,6 @@
 ### Welcome 👋
 
-<h1 align="center"> Jefferson Firmino</h1>
-
+<h1 align="center"> Jefferson Firmino</h1> 
 
 <dl>
 <dt>About Me </dt>
@@ -29,10 +28,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="50px50px" height ="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="50px" height ="50px"/>
 
 
-<div align= "right">
+<div align= "center">
  <a href="https://github.com/jeffersonfirmino">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfirmino&layout=compact&langs_count=7&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonfirmino&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonfirmino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
 </div>
