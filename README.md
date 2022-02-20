@@ -9,7 +9,7 @@
 <dd>- 👯 I’m looking to collaborate at Developer Enterprises <br/></dd>
 <dd>- 🤔 I’m looking for help with freeware projects <br/></dd>
 <dd>- 💬 Ask me about any doubt, anything call me on linkedin chat. <br/></dd>
-<dd>- 📫 How to reach me and more informations: www.likedin.com/in/jeffersonfir <br/></dd>
+<dd>- 📫 How to reach me and more informations: <a href="www.linkedin.com/in/jeffersonfir" target="_blank">Linkedin</a> <br/></dd>
 </dl>
 
 <blockquote align="right">
