@@ -1,24 +1,21 @@
-### Welcome 👋
 
-<h1 align="center"> Jefferson Firmino</h1> 
+`console.log("hello world")` 👋
 
-<dl>
-<dt>About Me </dt>
-<dd>- 🔭 I’m currently working on Independent Projects as a Freelancer. <br/></dd>
-<dd>- 🌱 I’m currently learning at Unopar University <br/></dd>
-<dd>- 👯 I’m looking to collaborate at Developer Enterprises <br/></dd>
-<dd>- 🤔 I’m looking for help with freeware projects <br/></dd>
-<dd>- 💬 Ask me about any doubt, anything call me on linkedin chat. <br/></dd>
-<dd>- 📫 How to reach me and more informations:
-</dl>
-[linkedin](www.linkedin.com/in/jeffersonfir)
-<blockquote align="right">
-<em><q>A persistência é o caminho do êxito.</q><br/>
-<cite>Charles Chaplin </cite>
- </em>
-</blockquote>
+<div align="center">
+ <h1>Jefferson Firmino<h1>
+</div>
 
-`into code`
+ ## About Me
+- 🔭 I’m currently working on Independent Projects as a Freelancer.
+- 🌱 I’m currently learning at Unopar University
+- 👯 I’m looking to collaborate at Developer Enterprises 
+- 🤔 I’m looking for help with freeware projects 
+- 💬 Ask me about any doubt, anything call me on linkedin chat;
+- 📫 How to reach me and more informations: [Linkedin](www.google.com)
+
+>"A persistência é o caminho do êxito." Charles Chaplin
+
+
 
 ### Linguagens e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="50px" height ="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50px" height ="50px" />
