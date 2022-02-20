@@ -4,7 +4,7 @@
 **jeffersonfirmino/jeffersonfirmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 <head>
 
-<h1> <p-text-align="center"> Jefferson Firmino </p> </h1>
+<h1 align="center"> Jefferson Firmino </p> </h1>
 
 - 🔭 I’m currently working on Independent Projects as a Freelancer. </br>
 - 🌱 I’m currently learning at Unopar University </br>
