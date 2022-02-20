@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate at Developer Enterprises 
 - 🤔 I’m looking for help with freeware projects 
 - 💬 Ask me about any doubt, anything call me on linkedin chat;
-- 📫 How to reach me and more informations: [Linkedin](https://www.linkedin.com/in/jeffersonfir)
+- 📫 How to reach me and more informations: [Linkedin](https://www.linkedin.com/in/jeffersonfir) [Email](mailto:jeffersonfir@gmail.com) [Whatsapp](https://api.whatsapp.com/send?phone=5511968388444&text=Whatsapp)
 
 >                                                                        "A persistência é o caminho do êxito." Charles Chaplin
 
