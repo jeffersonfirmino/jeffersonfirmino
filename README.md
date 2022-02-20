@@ -19,7 +19,7 @@
  </em>
 </blockquote>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500" height="500" align="right"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500" height="500" align="center"/>
 
 
 ### Linguagens e Tecnologias
