@@ -1,9 +1,5 @@
 ### Welcome 👋
 
-<!--
-**jeffersonfirmino/jeffersonfirmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
-
 <h1 align="center"> Jefferson Firmino  </h1>
 <hr/> 
 <dl>
