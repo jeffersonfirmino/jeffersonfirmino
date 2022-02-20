@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <h1 align="center"> Jefferson Firmino  </h1>
-<hr/> 
+
 <dl>
 <dt>About Me </dt>
 <dd>- 🔭 I’m currently working on Independent Projects as a Freelancer. <br/></dd>
